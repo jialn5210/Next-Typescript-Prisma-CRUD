@@ -19,6 +19,7 @@ interface UserData{
     id:string
   }[]
   
+  
 }
 
 const Home = ({users}:UserData) => {
